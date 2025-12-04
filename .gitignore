@@ -1,0 +1,21 @@
+
+---
+
+# 📄 **.gitignore (Copy–Paste)**
+
+```gitignore
+# Ignore compiled classes
+bin/
+*.class
+
+# Ignore data file
+products.txt
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
